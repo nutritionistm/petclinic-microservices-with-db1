@@ -1,4 +1,5 @@
-version: '2'
+# we are the champions
+version: '2' 
 
 services:
   config-server:
